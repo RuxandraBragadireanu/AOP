@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70c37676.chunk.css",
+    "main.js": "/static/js/main.ac450d62.chunk.js",
+    "main.js.map": "/static/js/main.ac450d62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4bd51e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4bd51e5.js.map",
+    "static/js/2.8c7e6a36.chunk.js": "/static/js/2.8c7e6a36.chunk.js",
+    "static/js/2.8c7e6a36.chunk.js.map": "/static/js/2.8c7e6a36.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c7a952945e9770e589de4cea8176838c.js": "/precache-manifest.c7a952945e9770e589de4cea8176838c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.70c37676.chunk.css.map": "/static/css/main.70c37676.chunk.css.map",
+    "static/js/2.8c7e6a36.chunk.js.LICENSE.txt": "/static/js/2.8c7e6a36.chunk.js.LICENSE.txt",
+    "static/media/candidate-icon.svg": "/static/media/candidate-icon.71d3d328.svg",
+    "static/media/employee-icon.svg": "/static/media/employee-icon.02d8e087.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bd51e5.js",
+    "static/js/2.8c7e6a36.chunk.js",
+    "static/css/main.70c37676.chunk.css",
+    "static/js/main.ac450d62.chunk.js"
+  ]
+}
